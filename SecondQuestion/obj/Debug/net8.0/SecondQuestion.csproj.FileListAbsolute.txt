@@ -1,0 +1,14 @@
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\bin\Debug\net8.0\SecondQuestion.exe
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\bin\Debug\net8.0\SecondQuestion.deps.json
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\bin\Debug\net8.0\SecondQuestion.runtimeconfig.json
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\bin\Debug\net8.0\SecondQuestion.dll
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\bin\Debug\net8.0\SecondQuestion.pdb
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.AssemblyInfoInputs.cache
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.AssemblyInfo.cs
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.dll
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\refint\SecondQuestion.dll
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.pdb
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\SecondQuestion.genruntimeconfig.cache
+C:\Users\Wits-user\OneDrive\Tradeshield\C# Question2\SecondQuestion\obj\Debug\net8.0\ref\SecondQuestion.dll
